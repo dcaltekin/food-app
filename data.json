@@ -1,0 +1,23 @@
+{
+        "foodItems":[
+        { "foodName":"Small Hamburger", "foodImage":"images/hamburger.png", "foodType":"Burger", "calories":226 },
+	    { "foodName":"Regular Hamburger", "foodImage":"images/hamburger.png", "foodType":"Burger", "calories":325 },
+	    { "foodName":"Hamburger", "foodImage":"images/hamburger.png", "foodType":"Burger", "calories":325, "correctedTerm":"Regular Hamburger" },
+	    { "foodName":"Huge Hamburger", "foodImage":"images/hamburger.png", "foodType":"Burger", "calories":510 },
+	    { "foodName":"Big Double", "foodImage":"images/hamburger.png", "foodType":"Burger", "calories":311 },
+	    { "foodName":"Chicken Breast", "foodImage":"images/hamburger.png", "foodType":"Chicken", "calories":377 },
+	    { "foodName":"Original Style Chicken Breast", "foodImage":"images/hamburger.png", "foodType":"Chicken", "calories":393 },
+	    { "foodName":"Barbeque Style Chicken Breast", "foodImage":"images/hamburger.png", "foodType":"Chicken", "calories":376 },
+	    { "foodName":"Cajun Style Chicken Breast", "foodImage":"images/hamburger.png", "foodType":"Chicken", "calories":377 },
+	    { "foodName":"Cheddar Style Chicken Breast", "foodImage":"images/hamburger.png", "foodType":"Chicken", "calories":534 },
+	    { "foodName":"Spicy Chicken Breast", "foodImage":"images/hamburger.png", "foodType":"Chicken", "calories":446 },
+	    { "foodName":"Regular BBQ Sandwich", "foodImage":"images/hamburger.png", "foodType":"Sandwich", "calories":368 },
+	    { "foodName":"BBQ Plate", "foodImage":"images/hamburger.png", "foodType":"Sandwich",  "calories":976 },
+	    { "foodName":"Hot Dog", "foodImage":"images/hamburger.png", "foodType":"Hot Dog", "calories":260 },
+	    { "foodName":"Cook Out Style Hot Dog", "foodImage":"images/hamburger.png", "foodType":"Hot Dog", "calories":383 },
+	    { "foodName":"Mexi Hot Dog", "foodImage":"images/hamburger.png", "foodType":"Hot Dog", "calories":362 },
+	    { "foodName":"Bacon Cheddar Hot Dog", "foodImage":"images/hamburger.png", "foodType":"Hot Dog", "calories":523 },
+	    { "foodName":"Crispy Chicken Cajun Wrap", "foodImage":"images/hamburger.png", "foodType":"Chicken Wrap", "calories":501 },
+	    { "foodName":"Crispy Chicken Ranch Wrap", "foodImage":"images/hamburger.png", "foodType":"Chicken Wrap", "calories":522 }
+    ]
+}
